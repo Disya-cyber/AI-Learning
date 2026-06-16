@@ -1,4 +1,4 @@
-name = "Dias"
+name = input("Введите ваше имя: ")
 
-print("Привет,", name)
-print("Я изучаю Python и GitHub")
+print("Привет,", name + "!")
+print("Добро пожаловать в Python.")
